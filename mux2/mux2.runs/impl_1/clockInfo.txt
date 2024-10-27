@@ -1,0 +1,10 @@
+-------------------------------------
+| Tool Version : Vivado v.2024.1
+| Date         : Sun Oct 27 21:59:28 2024
+| Host         : DESKTOP-HDC387S
+| Design       : checkpoint_mux2
+| Device       : xc7z010-clg400-2--
+-------------------------------------
+
+For more information on clockInfo.txt clock routing debug file see https://support.xilinx.com/s/article/000035660?language=en_US
+

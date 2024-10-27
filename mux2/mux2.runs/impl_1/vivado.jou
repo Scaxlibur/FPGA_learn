@@ -3,12 +3,12 @@
 # SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
 # IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
 # SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
-# Start of session at: Sun Oct 27 20:11:32 2024
-# Process ID: 27892
-# Current directory: D:/git/FPGA_learn/mux2/mux2.runs/synth_1
-# Command line: vivado.exe -log mux2.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mux2.tcl
-# Log file: D:/git/FPGA_learn/mux2/mux2.runs/synth_1/mux2.vds
-# Journal file: D:/git/FPGA_learn/mux2/mux2.runs/synth_1\vivado.jou
+# Start of session at: Sun Oct 27 21:59:02 2024
+# Process ID: 30688
+# Current directory: D:/git/FPGA_learn/mux2/mux2.runs/impl_1
+# Command line: vivado.exe -log mux2.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source mux2.tcl -notrace
+# Log file: D:/git/FPGA_learn/mux2/mux2.runs/impl_1/mux2.vdi
+# Journal file: D:/git/FPGA_learn/mux2/mux2.runs/impl_1\vivado.jou
 # Running On        :DESKTOP-HDC387S
 # Platform          :Windows Server 2016 or Windows 10
 # Operating System  :22631
@@ -19,6 +19,6 @@
 # Host memory       :33651 MB
 # Swap memory       :5100 MB
 # Total Virtual     :38751 MB
-# Available Virtual :17982 MB
+# Available Virtual :17236 MB
 #-----------------------------------------------------------
 source mux2.tcl -notrace
